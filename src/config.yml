@@ -1,0 +1,20 @@
+#################################
+##    GeneralOP Configuration  ##
+##           V1.0              ##
+#################################
+
+staff:
+    owner:
+        - DUFC_Liam
+    coowner:
+        - jamieboy34
+    executive:
+        - Executive1
+    assistexec:
+        - AssistantExecutive1
+    admin:
+        - Admin1
+    moderator:
+        - Moderator1
+    helper:
+        - helper1
